@@ -1,6 +1,10 @@
 //You are given a list of integers nums. You can reduce the length of nums by taking any two integers, removing them, and appending their sum to the end. The cost of doing this is the sum of the two integers you removed.
 
 //Return the minimum total cost of reducing nums to one integer.
+// Input
+//  nums = [1, 2, 3, 4, 5]
+//Output
+//  33
 
 import java.util.*;
 
